@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.last-sec{
+    background-image: url('./picture/Background.png');
+}
